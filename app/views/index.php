@@ -24,4 +24,5 @@
 <script src="js/controllers/HomeController.js"></script>
 
 <!-- Services -->
+<script src="js/services/CommentsService.js"></script>
 </html>
