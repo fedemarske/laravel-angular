@@ -8,8 +8,8 @@ angular.module('app.config')
       
     	// root path
         .when('/', {
-            templateUrl: 'partials/home.html',
-            controller: 'HomeController'
+            templateUrl: 'partials/login.html',
+            controller: 'LoginController'
         })  	
 
         .otherwise({
